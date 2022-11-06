@@ -1,4 +1,4 @@
-# NLW eSports
+# NLW Copa
 
 ![preview](/.github/preview.png)
 
