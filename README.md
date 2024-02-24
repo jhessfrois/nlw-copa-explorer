@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo NLW Copa - Rocketseat" src="https://i.imgur.com/zi12TEk.png" width="200px" />
+  <img alt="Logo NLW Copa - Rocketseat" src="https://i.imgur.com/5rorhdF.png" width="200px" />
 </p>
   
 <p align="center">
@@ -22,6 +22,8 @@ Aplicação desenvolvida no NLW Copa da Rocketseat na trilha Explorer.
 <p align="center">
   <img alt="Preview do projeto desenvolvido." src="./.github/preview.png" width="80%">
 </p>
+
+> Projeto desenvolvido entre os dias 31/10 e 04/11 de 2022
 
 ## **🚀 Tecnologias**
 
