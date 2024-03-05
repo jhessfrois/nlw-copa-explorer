@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo NLW Copa - Rocketseat" src="https://i.imgur.com/5rorhdF.png" width="200px" />
-</p>
+</p> 
   
 <p align="center">
 Aplicação desenvolvida no NLW Copa da Rocketseat na trilha Explorer.
